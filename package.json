@@ -1,0 +1,15 @@
+{
+  "name": "hash.ts",
+  "version": "0.0.1",
+
+  "devDependencies": {
+
+  },
+
+  "main": "hash.js",
+
+  "dependencies": {
+    "rusha": "jamcoupe/rusha",
+    "encode.ts": "jamcoupe/encode.ts"
+  }
+}
