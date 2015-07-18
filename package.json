@@ -10,6 +10,7 @@
 
   "dependencies": {
     "rusha": "jamcoupe/rusha",
+    "fast-sha256-js": "jamcoupe/fast-sha256-js",
     "encode.ts": "jamcoupe/encode.ts"
   }
 }
