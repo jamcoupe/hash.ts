@@ -1,8 +1,8 @@
 
 import {HashType} from './enums/hash_type';
-import {Rusha} from './../node_modules/rusha/rusha';
-import {SHA256} from './../node_modules/fast-sha256/sha256';
-import {Hexadecimal} from './../node_modules/encode.ts/encode';
+import {Rusha} from 'rusha/rusha';
+import {SHA256} from 'fast-sha256-js/sha256';
+import {Hexadecimal} from 'encode.ts/encode';
 
 
 

@@ -1,6 +1,6 @@
 
 import {HashType} from './enums/hash_type';
-import {SHA256} from './../node_modules/fast-sha256/sha256';
+import {SHA256} from 'fast-sha256-js/sha256';
 
 
 
